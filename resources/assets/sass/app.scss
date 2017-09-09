@@ -1,0 +1,56 @@
+// Variables
+@import "variables";
+
+.sail{
+  font-family: 'Sail', cursive;
+}
+.big-size{
+  font-size: 100px !important;
+}
+
+.navbar-inverse{
+  background-color: rgb(40, 152, 244) !important;
+}
+
+.author-image{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    float: left;
+}
+
+.comment{
+    margin-bottom: 20px;
+    margin-left: 10px;
+}
+
+.comment-name{
+    float: left;
+    margin: 5px;
+    margin-left: 15px;
+}
+
+.author-time{
+    color: grey;
+    font-size: 11px;
+    font-style: italic;
+}
+
+.content{
+    clear: both;
+    margin-left: 68px;
+}
+
+.h-4-name{
+    color: rgb(40, 152, 244);
+    text-decoration: none;
+}
+
+.count-padding{
+    background-color: rgb(166, 169, 176);
+    padding-top: 25px;
+    padding-right: 30px;
+    padding-bottom: 25px;
+    padding-left: 30px;
+    text-align: center;
+}

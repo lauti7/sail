@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.scss"],"names":[],"mappings":"AAGA;EACE,6BAA6B;CAC9B;;AACD;EACE,4BAA4B;CAC7B;;AAED;EACE,qCAA8C;CAC/C","file":"app.css","sourcesContent":["// Variables\n@import \"variables\";\n\n.sail{\n  font-family: 'Sail', cursive;\n}\n.big-size{\n  font-size: 100px !important;\n}\n\n.navbar-inverse{\n  background-color: rgb(40, 152, 244) !important;\n}\n"]}
